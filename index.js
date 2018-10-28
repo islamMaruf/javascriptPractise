@@ -1,5 +1,18 @@
-var color = ['red','green','blue']
+var colors = ['red','green','blue']
 
-for (item in color){
-    console.log(color[item])
-}
+// for (item in colors){
+//     console.log(color[item])
+// }
+
+
+//work with array
+
+//conversion method
+//to string method
+ console.log(colors.toString())
+
+
+//join method
+ console.log(colors.join(' - '))
+
+
