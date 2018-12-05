@@ -59,16 +59,7 @@
 
 // }
 
-// console.log(total(1,2))
 
-// var total = function(num1,num2){
-//     return num1+num2;
-// }
-
-// function callingFunction(myFunc,myargs){
-
-//     return myFunc(myargs);
-// }
 
 // function addHundred(num){
 //     return num+100;
